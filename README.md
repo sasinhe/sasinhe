@@ -1,4 +1,4 @@
-### Hi Buddy 👋
+### Hi Everyone 👋
 <!--
 **elfoph/elfoph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
