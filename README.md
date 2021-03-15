@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi Buddy 👋
 <!--
 **elfoph/elfoph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently learning Haskell and Machine Learning just for fun. I'm also a student of [Molecular Sciences](http://www.cecm.usp.br/) at [USP](https://www5.usp.br/).
+- I'm looking to colaborate on some projects involving art and Machine Learning.
