@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 - I'm currently learning Haskell and Machine Learning just for fun. I'm also a student of [Molecular Sciences](http://www.cecm.usp.br/) at [USP](https://www5.usp.br/).
 - I'm looking to colaborate on some projects involving art and Machine Learning.
+- I'm a emacs and zettelkasten enthusiast, working on some projects envolving both of it.
